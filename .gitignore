@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables (Secret Keys)
+.env
+.env.local
+
+# IDEs and OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
